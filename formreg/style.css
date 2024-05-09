@@ -1,0 +1,44 @@
+
+body {
+    font-family: sans-serif;
+    margin: 4;
+    padding: 80px;
+    background-color: rgb(4, 11, 50);
+    color: white;
+    color-scheme: dark;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+
+  .form {
+
+    display: flex;
+    align-items: center;
+  }
+  
+  .form label {
+    flex: 0 0 120px;
+  }
+  
+  input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ffffff00;
+    border-radius: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  
+  
